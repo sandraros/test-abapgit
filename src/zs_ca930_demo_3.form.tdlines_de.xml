@@ -5,6 +5,14 @@
    <TDLINES>
     <TLINE>
      <TDFORMAT>/W</TDFORMAT>
+     <TDLINE>A2345678</TDLINE>
+    </TLINE>
+    <TLINE>
+     <TDFORMAT>*</TDFORMAT>
+     <TDLINE>TEST</TDLINE>
+    </TLINE>
+    <TLINE>
+     <TDFORMAT>/W</TDFORMAT>
      <TDLINE>ADDRESS</TDLINE>
     </TLINE>
     <TLINE>
