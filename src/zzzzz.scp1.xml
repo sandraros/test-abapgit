@@ -37,11 +37,11 @@
       <ID>ZZZZZ</ID>
       <VERSION>N</VERSION>
       <TABLENAME>BALOBJ</TABLENAME>
-      <RECNUMBER>        1</RECNUMBER>
+      <RECNUMBER>1</RECNUMBER>
       <FIELDNAME>OBJTXT</FIELDNAME>
       <LANGU>E</LANGU>
       <FLAG>USE</FLAG>
-      <VALUE>text zzzzz</VALUE>
+      <VALUE>text zzzzz 2</VALUE>
      </SCPRVALL>
     </SCPRVALL>
     <SCPRRECA>
