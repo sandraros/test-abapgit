@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SCP1" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SCP1>
+    <SCPRATTR>
+     <ID>ZZZZZ</ID>
+     <TYPE>TMV</TYPE>
+     <REFTYPE>TRAN</REFTYPE>
+     <REFNAME>NPLK900080</REFNAME>
+     <ORGID>/CUSTOMER/</ORGID>
+     <COMPONENT>SAP_BASIS</COMPONENT>
+     <MINRELEASE>752</MINRELEASE>
+     <MAXRELEASE>*</MAXRELEASE>
+    </SCPRATTR>
+    <SCPRTEXT>
+     <SCPRTEXT>
+      <LANGU>E</LANGU>
+      <ID>ZZZZZ</ID>
+      <VERSION>N</VERSION>
+      <TEXT>abapGit/issues/2348</TEXT>
+     </SCPRTEXT>
+    </SCPRTEXT>
+    <SCPRVALS>
+     <SCPRVALS>
+      <ID>ZZZZZ</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>BALOBJ</TABLENAME>
+      <RECNUMBER>1</RECNUMBER>
+      <FIELDNAME>OBJECT</FIELDNAME>
+      <FLAG>FKY</FLAG>
+      <VALUE>ZZZZZ</VALUE>
+     </SCPRVALS>
+    </SCPRVALS>
+    <SCPRVALL>
+     <SCPRVALL>
+      <ID>ZZZZZ</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>BALOBJ</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <FIELDNAME>OBJTXT</FIELDNAME>
+      <LANGU>E</LANGU>
+      <FLAG>USE</FLAG>
+      <VALUE>text zzzzz</VALUE>
+     </SCPRVALL>
+    </SCPRVALL>
+    <SCPRRECA>
+     <SCPRRECA>
+      <ID>ZZZZZ</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>BALOBJ</TABLENAME>
+      <RECNUMBER>1</RECNUMBER>
+      <OBJECTNAME>BALOBJ</OBJECTNAME>
+      <OBJECTTYPE>S</OBJECTTYPE>
+     </SCPRRECA>
+    </SCPRRECA>
+   </SCP1>
+  </asx:values>
+ </asx:abap>
+</abapGit>
